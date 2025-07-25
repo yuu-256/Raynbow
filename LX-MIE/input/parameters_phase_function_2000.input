@@ -2,7 +2,7 @@
 compilation/H2O_l.dat
 
 #particle radius (microns)
-10000
+100
 
 #output filename
 output/cross_sections.dat
