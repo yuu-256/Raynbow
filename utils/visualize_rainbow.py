@@ -104,6 +104,7 @@ def plot_rgb_image(rgb_image, xedges, yedges):
 
 if __name__ == "__main__":
     directory = 'output'
+    os.makedirs(directory, exist_ok=True)
     rgb_image, xedges, yedges = conv_heatmaps(directory)
     if rgb_image is not None:
         plot_rgb_image(rgb_image, xedges, yedges)
