@@ -42,7 +42,7 @@ lambda_max=""
 
 echo "Cleaning up previous outputs..."
 echo " "
-rm -f output/*
+rm -f output/*(N)
 
 # Print the banner
 ./interface/print_banner
