@@ -1,5 +1,6 @@
 # Raynbow
-<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/c2c58f30-dc56-4148-bfb3-85b2e5c76372" />
+<img width="500" height="150" alt="Image" src="https://github.com/user-attachments/assets/a8f35176-6ff5-483a-8f87-9982b2358ed5" /> 
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/c2c58f30-dc56-4148-bfb3-85b2e5c76372" /> 
 LX-MIEのミー散乱計算とレイトレーシングで虹のシミュレーションを行うツールです。
 水粒子のサイズと光の波長区間を指定して計算を行うことができます。
 
